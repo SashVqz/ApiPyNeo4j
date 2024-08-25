@@ -3,7 +3,7 @@ from socialNetworkLegacy import SocialNetworkAPI
 if __name__ == "__main__":
     uri = "bolt://localhost:7687"
     username = "neo4j"
-    password = "Myrinealv1"
+    password = "123"
 
     api = SocialNetworkAPI(uri, username, password)
 
